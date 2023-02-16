@@ -3,7 +3,7 @@
 * [Что здесь?](README.md)
 * [📰 Телеграм-канал](https://t.me/osint\_mindset)
 * [💼 Кейсы и решения задач](https://osint-mindset.gitbook.io/cases)
-* [🍰 Митапы и подкасты](mitapy-i-podkasty/README.md)
+* [🍰 Митапы и подкасты](mitapy-i-podkasty.md)
   * [Митап #1](mitapy-i-podkasty/mitap-1.md)
   * [Митап #2](mitapy-i-podkasty/mitap-2.md)
   * [Митап #3](mitapy-i-podkasty/mitap-3.md)
