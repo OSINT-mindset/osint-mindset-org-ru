@@ -3,6 +3,7 @@
 * [Что здесь?](README.md)
 * [📰 Телеграм-канал](https://t.me/osint\_mindset)
 * [💼 Кейсы и решения задач](https://osint-mindset.gitbook.io/cases)
+* [🍰 Митапы и подкасты](mitapy-i-podkasty.md)
 * [📽 Видео](https://osint-mindset.gitbook.io/talks)
 * [🏠 Бытовой OSINT](https://osint-mindset.gitbook.io/everyday-osint/)
 * [🔍 Форум обучения OSINT](https://t.me/+GMxoDCvLO0k0MWRi)
