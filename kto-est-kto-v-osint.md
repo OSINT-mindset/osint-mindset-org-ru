@@ -49,3 +49,12 @@ Official page: [https://osintfr.com/en/home/](https://osintfr.com/en/home/)
 | Name                                                     | Transliteration into Ru          | IPА                                | Who is this?        |
 | -------------------------------------------------------- | -------------------------------- | ---------------------------------- | ------------------- |
 | Sylvain HAJRI ([navlys\_](https://twitter.com/navlys\_)) | с**и**львиан х**а**джри (нэвлис) | \[ˈsilvɪən ˈxad͡ʐʐrɪ] / \[ˈnɛvlɪs] | Founder of OSINT-FR |
+| Palenath                                                 |                                  |                                    |                     |
+| mxrch                                                    |                                  |                                    |                     |
+
+## OSINT Italy community
+
+| Name                            | Transliteration into Ru | IPА | Who is this?                                                                                  |
+| ------------------------------- | ----------------------- | --- | --------------------------------------------------------------------------------------------- |
+| [Ramingo](https://t.me/Ramingo) |                         |     | Author of argos script and admin of the [OSIntOps news channel](https://t.me/Osintlatestnews) |
+
