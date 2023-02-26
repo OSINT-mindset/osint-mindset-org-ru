@@ -18,3 +18,4 @@
 * [🕵♀ Кто есть кто в OSINT](https://soxoj.github.io/dictionary/)
 * [🗓 Календарь событий](https://calendar.online/dc3ea64f7d705161a729)
 * [👷 Работа](https://docs.google.com/forms/d/e/1FAIpQLSetTzFrgRpZOfLbBBB5\_JJqyZN4-kW8qQLLenNSaGbGXlC6zA/viewform)
+* [🕵♀ Кто есть кто в OSINT](kto-est-kto-v-osint.md)
