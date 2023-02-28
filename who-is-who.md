@@ -54,9 +54,10 @@ Official page: [https://osintfr.com/en/home/](https://osintfr.com/en/home/)
 
 ## OSINT Italy community
 
-| Name                            | Transliteration into Ru | IPА         | Who is this?                                                                                  |
-| ------------------------------- | ----------------------- | ----------- | --------------------------------------------------------------------------------------------- |
-| [Ramingo](https://t.me/Ramingo) |                         | \[raˈminɡo] | Author of argos script and admin of the [OSIntOps news channel](https://t.me/Osintlatestnews) |
+| Name                            | Transliteration into Ru | IPА          | Who is this?                                                                                                              |
+| ------------------------------- | ----------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------- |
+| [Ramingo](https://t.me/Ramingo) |                         | \[raˈminɡo]  | Author of argos script and admin of the [OSIntOps news channel](https://t.me/Osintlatestnews)                             |
+| CScorza                         |                         | \[sis’korzɐ] | A creator of tools (https://cscorza.github.io/CScorza/) and owner of [Telegram-channel ](https://t.me/+kP\_uYlc6-345Njc8) |
 
 ## OSINT Spain community
 
