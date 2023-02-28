@@ -17,10 +17,10 @@ description: Главная страница сообщества OSINT mindset
 Что мы делаем:
 
 * [1️⃣ Митапы OSINT mindset: раз в месяц в Москве](https://osint-mindset.gitbook.io/index/mitapy-i-podkasty)
-* [2️⃣](https://t.me/osint\_mindset/138) [Подкасты и интервью про OSINT](https://osint-mindset.mave.digital/)
-* [3️⃣](https://t.me/osint\_mindset/138) [Инструменты для поиска и обработки информации](https://github.com/soxoj)
-* [4️⃣](https://t.me/osint\_mindset/138) [Помощь в трудоустройстве в смежных сферах](https://t.me/osint\_mindset/144)
-* [5️⃣](https://t.me/osint\_mindset/138) [Форум для обучения OSINT на прикладных задачах](https://t.me/osint\_mindset/150)
+* [2️⃣ Подкасты и интервью про OSINT](https://osint-mindset.mave.digital/)
+* [3️⃣ Инструменты для поиска и обработки информации](https://github.com/soxoj)
+* [4️⃣ Помощь в трудоустройстве в смежных сферах](https://t.me/osint\_mindset/144)
+* [5️⃣ Форум для обучения OSINT на прикладных задачах](https://t.me/osint\_mindset/150)
 
 Ссылки на полезные и обучающие материалы вы можете найти в меню страницы.
 

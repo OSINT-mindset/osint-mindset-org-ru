@@ -12,6 +12,7 @@
   * [Митап #6](mitapy-i-podkasty/mitap-6.md)
   * [Митап #7](mitapy-i-podkasty/mitap-7.md)
 * [📽 Видео](https://osint-mindset.gitbook.io/talks)
+  * [Митап #1](mitapy-i-podkasty/mitap-1.md)
 * [🏠 Бытовой OSINT](https://osint-mindset.gitbook.io/everyday-osint/)
 * [🔍 Форум обучения OSINT](https://t.me/+GMxoDCvLO0k0MWRi)
 * [🛡 Руководство по защите от OSINT](https://osint-mindset.gitbook.io/counter-osint)
