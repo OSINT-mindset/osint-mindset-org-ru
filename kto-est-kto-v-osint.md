@@ -4,7 +4,7 @@ description: Who is who in OSINT community
 
 # 🕵♀ Кто есть кто в OSINT
 
-## Русскоязычного OSINT-сообщество
+## Русскоязычное OSINT-сообщество
 
 Русскоязычное сообщество OSINT богато людьми с труднопроизносимыми именами.
 
@@ -46,11 +46,11 @@ description: Who is who in OSINT community
 
 Official page: [https://osintfr.com/en/home/](https://osintfr.com/en/home/)
 
-| Name                                                     | Transliteration into Ru          | IPА                                | Who is this?        |
-| -------------------------------------------------------- | -------------------------------- | ---------------------------------- | ------------------- |
-| Sylvain HAJRI ([navlys\_](https://twitter.com/navlys\_)) | с**и**львиан х**а**джри (нэвлис) | \[ˈsilvɪən ˈxad͡ʐʐrɪ] / \[ˈnɛvlɪs] | Founder of OSINT-FR |
-| Palenath                                                 |                                  |                                    |                     |
-| mxrch                                                    |                                  |                                    |                     |
+| Name                                                     | Transliteration into Ru          | IPА                                | Who is this?                                                                                          |
+| -------------------------------------------------------- | -------------------------------- | ---------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| Sylvain HAJRI ([navlys\_](https://twitter.com/navlys\_)) | с**и**львиан х**а**джри (нэвлис) | \[ˈsilvɪən ˈxad͡ʐʐrɪ] / \[ˈnɛvlɪs] | Founder of OSINT-FR                                                                                   |
+| mxrch ([mxrchreborn](https://twitter.com/mxrchreborn))   | м**а**тч                         | \[mɑː(r)tʃ]                        | Developer, pentester, OSINTer, and [creator of GHunt, GitFive and Revealin](https://github.com/mxrch) |
+| Palenath                                                 |                                  |                                    |                                                                                                       |
 
 ## OSINT Italy community
 
