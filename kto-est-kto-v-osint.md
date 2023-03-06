@@ -76,3 +76,9 @@ Official page: [https://osintfr.com/en/home/](https://osintfr.com/en/home/)
 | Vicente Aguillera ([@VAguileraDiaz](https://twitter.com/VAguileraDiaz))  |                         | \[bi'θente aɣj'ʎera]  | <p>Tinfoleak author</p><p>OWASP Spain Chapter Leader</p><p>Co-author book OSINT: Investigating People and Identities on the Internet" by 0xWord</p>                                                                                                                                                                                |
 | Carlos Seisdedos ([@CarloSeisdedos](https://twitter.com/CarloSeisdedos)) |                         | \['karlos sejz'ðeðos] | Co-author book OSINT: Investigating People and Identities on the Internet" by 0xWord                                                                                                                                                                                                                                               |
 
+## OSINT Brazilian community
+
+| Name                                                      | Transliteration into Ru | IPА | Who is this?                                                           |
+| --------------------------------------------------------- | ----------------------- | --- | ---------------------------------------------------------------------- |
+| Mr. Cl0wn ([@MrCl0wnLab](https://twitter.com/MrCl0wnLab)) |                         |     | Co-founder of [OSINT Brazuca Project](https://github.com/osintbrazuca) |
+| c4nh0t0 ([@C4nh0t0GH](https://twitter.com/C4nh0t0GH))     |                         |     | Co-founder of [OSINT Brazuca Project](https://github.com/osintbrazuca) |
