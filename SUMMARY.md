@@ -39,6 +39,7 @@
 
 ## Руководства <a href="#guides" id="guides"></a>
 
+* [👣 Введение в OSINT-расследования](guides/vvedenie-v-osint-rassledovaniya.md)
 * [🌠 Как начать путь в OSINT](guides/kak-nachat-put-v-osint.md)
 * [🏠 Бытовой OSINT](https://osint-mindset.gitbook.io/everyday-osint/)
 * [🛡 Руководство по защите от OSINT](https://osint-mindset.gitbook.io/counter-osint)
