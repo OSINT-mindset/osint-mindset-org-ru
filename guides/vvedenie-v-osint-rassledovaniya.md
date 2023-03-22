@@ -84,29 +84,29 @@ Google Lens умеет:
 
 Теперь этого достаточно, чтобы найти это здание. Все также загружаем в Google Lens и выделяем здание и получаем, то что мы хотели.
 
-![](file:///Users/dmitriy/Downloads/OSINT%20Investigations%20Forum%20guide%20for%20beginners/images/image42.png)
+<figure><img src="../.gitbook/assets/image42.png" alt=""><figcaption></figcaption></figure>
 
 Итак, мы знаем теперь здание вдали - это Латвийская Национальная библиотека, осталось найти здание, которое стоит напротив.
 
 А вот и оно : The Wellton Riverside Spa Hotel in Riga
 
-![](file:///Users/dmitriy/Downloads/OSINT%20Investigations%20Forum%20guide%20for%20beginners/images/image20.png)
+<figure><img src="../.gitbook/assets/image20.png" alt=""><figcaption></figcaption></figure>
 
 Теперь если посмотреть информацию про conference rooms на сайте этого отеля, то находим похожую комнату.
 
-![](file:///Users/dmitriy/Downloads/OSINT%20Investigations%20Forum%20guide%20for%20beginners/images/image21.png)
+<figure><img src="../.gitbook/assets/image21.png" alt=""><figcaption></figcaption></figure>
 
 Ладно, теперь пытаемся найти точные координаты, откуда было сделано фото и получаем ответ: 56.945074540, 24.108067195.
 
 Хорошо, теперь давайте посмотрим на еще одну важную вещь в поиске изображений.
 
-Язык
+## Язык
 
 Иногда хочется получать результаты только одной страны, но к сожалению выдает результаты из разных стран.
 
 Чтобы избавиться от такой проблемы, нужно поменять язык в поиске Google. Итак давайте посмотрим на примере этой фотографии.
 
-![](file:///Users/dmitriy/Downloads/OSINT%20Investigations%20Forum%20guide%20for%20beginners/images/image34.png)
+<figure><img src="../.gitbook/assets/image34.png" alt=""><figcaption></figcaption></figure>
 
 Дана фотография, нужно найти место.
 
@@ -116,15 +116,15 @@ Google Lens умеет:
 
 Для этого переходим на главную страницу Google. Нажимаем настройки -> настройки поиска.
 
-![](file:///Users/dmitriy/Downloads/OSINT%20Investigations%20Forum%20guide%20for%20beginners/images/image11.png)
+<figure><img src="../.gitbook/assets/image11.png" alt=""><figcaption></figcaption></figure>
 
 Далее нажимаем языки и выбираем польский.
 
-![](file:///Users/dmitriy/Downloads/OSINT%20Investigations%20Forum%20guide%20for%20beginners/images/image10.png)
+<figure><img src="../.gitbook/assets/image10.png" alt=""><figcaption></figcaption></figure>
 
 Теперь загружаем фото в Google Lens и получаем в основном польские результаты. Среди них есть и наша застройка.
 
-![](file:///Users/dmitriy/Downloads/OSINT%20Investigations%20Forum%20guide%20for%20beginners/images/image22.png)
+<figure><img src="../.gitbook/assets/image22.png" alt=""><figcaption></figcaption></figure>
 
 Переходим по первой ссылке, находим то же объявление и смотрим адрес.
 
