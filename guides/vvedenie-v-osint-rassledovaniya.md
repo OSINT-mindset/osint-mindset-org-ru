@@ -128,63 +128,63 @@ Google Lens умеет:
 
 Переходим по первой ссылке, находим то же объявление и смотрим адрес.
 
-![](file:///Users/dmitriy/Downloads/OSINT%20Investigations%20Forum%20guide%20for%20beginners/images/image37.png)
+<figure><img src="../.gitbook/assets/image37.png" alt=""><figcaption></figcaption></figure>
 
 Итак, на сайте написано, что это Город Краков, улица Wrocławska. Вводим это в Google Maps и ищем наше здание.
 
 Спустя несколько минут прогуливание по улице, находим место.
 
-![](file:///Users/dmitriy/Downloads/OSINT%20Investigations%20Forum%20guide%20for%20beginners/images/image5.png)
+<figure><img src="../.gitbook/assets/image5.png" alt=""><figcaption></figcaption></figure>
 
 Координаты: 50.08063721, 19.9214986570.
 
-Распознавание языка
+## Распознавание языка
 
 Так, теперь давайте рассмотрим еще одну фичу - это распознавание языка. Это бывает полезно, когда на фото иероглифы, которые просто так на клавиатуре не набрать. Давайте рассмотрим реальный кейс.
 
-![](file:///Users/dmitriy/Downloads/OSINT%20Investigations%20Forum%20guide%20for%20beginners/images/image25.png)
+<figure><img src="../.gitbook/assets/image25.png" alt=""><figcaption></figcaption></figure>
 
 Мы видим на столбе иероглифы. Понять и написать на клавиатуре мы их не можем. Нам поможет Google Lens.
 
 Загружаем изображение и выделяем иероглифы.
 
-![](file:///Users/dmitriy/Downloads/OSINT%20Investigations%20Forum%20guide%20for%20beginners/images/image44.png)
+<figure><img src="../.gitbook/assets/image44.png" alt=""><figcaption></figcaption></figure>
 
 К сожалению не определился первый иероглиф, потому что он немного закрыт черной точкой. Ничего страшного, можем дорисовать иероглиф в пэинте, фотошопе, ну или на сайте photopea.
 
-![](file:///Users/dmitriy/Downloads/OSINT%20Investigations%20Forum%20guide%20for%20beginners/images/image1.png)
+<figure><img src="../.gitbook/assets/image1.png" alt=""><figcaption></figcaption></figure>
 
 Иногда приходится дорисовывать некоторые элементы изображения, чтобы гугл их начал распознавать, как с этим иероглифом.
 
 Загружаем снова в Google Lens. Ура! Все иероглифы определились.
 
-![](file:///Users/dmitriy/Downloads/OSINT%20Investigations%20Forum%20guide%20for%20beginners/images/image23.png)
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 Это больница в Японии. Хорошо, вводим адрес этой больницы в Google Maps и смотрим дальше.
 
-![](file:///Users/dmitriy/Downloads/OSINT%20Investigations%20Forum%20guide%20for%20beginners/images/image16.png)
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 На фото можно увидеть цифру 20 на асфальте.
 
-![](file:///Users/dmitriy/Downloads/OSINT%20Investigations%20Forum%20guide%20for%20beginners/images/image24.png)
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 Также мы видим, что стрелка указывает на больницу сзади, поэтому скорее всего это вот эта дорога.
 
-![](file:///Users/dmitriy/Downloads/OSINT%20Investigations%20Forum%20guide%20for%20beginners/images/image18.png)
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 Смотрим эту дорогу на наличие цифры 20 и находим вот это.
 
-![](file:///Users/dmitriy/Downloads/OSINT%20Investigations%20Forum%20guide%20for%20beginners/images/image38.png)
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 Переключаемся на Street View и убеждаемся, что это наше место.
 
-![](file:///Users/dmitriy/Downloads/OSINT%20Investigations%20Forum%20guide%20for%20beginners/images/image2.png)
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 Это оно!
 
-Ответ: 35.71140247380368, 139.51662659726136.
+**Ответ: 35.71140247380368, 139.51662659726136.**
 
-Нейросети
+### Нейросети
 
 Иногда, у нас имеется только часть фото или фото с искажениями. В этом случае можно дополнить или изменить фотографию с помощью нейросетей.
 
@@ -194,13 +194,13 @@ Google Lens умеет:
 
 Итак, давайте посмотрим на реальную задачу.
 
-![](file:///Users/dmitriy/Downloads/OSINT%20Investigations%20Forum%20guide%20for%20beginners/images/image30.png)
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 У нас есть это изображение. Нужно найти блог, на котором плавает это существо.
 
 Мы видим, что у существа нет головы, изображение искажено. Google Lense нужных результатов не выдаст.
 
-![](file:///Users/dmitriy/Downloads/OSINT%20Investigations%20Forum%20guide%20for%20beginners/images/image40.png)
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 Поэтому нам надо обхитрить гугл и дать понять, что это за животное и что мы вообще хотим искать. Для этого воспользуемся нейросетью dalle-e 2, чтобы дорисовать голову.
 
@@ -208,25 +208,25 @@ Google Lens умеет:
 
 Хорошо, заходим на сайт нейросети и нажимаем upload an image.
 
-![](file:///Users/dmitriy/Downloads/OSINT%20Investigations%20Forum%20guide%20for%20beginners/images/image8.png)
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 Выбираем наше изображение и нажимаем skip cropping.
 
-![](file:///Users/dmitriy/Downloads/OSINT%20Investigations%20Forum%20guide%20for%20beginners/images/image36.png)
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-Расстягиваем изображение ( Я растянул до 642x1200)
+Растягиваем изображение ( Я растянул до 642x1200)
 
-![](file:///Users/dmitriy/Downloads/OSINT%20Investigations%20Forum%20guide%20for%20beginners/images/image17.png)
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Нажимаем на галочку и стираем область, где мы хотим дорисовать голову ластиком. В поле для промта пишем rat.
 
 Дальше выбираете понравившийся результат и скачиваете картинку.
 
-![](file:///Users/dmitriy/Downloads/OSINT%20Investigations%20Forum%20guide%20for%20beginners/images/image26.png)
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Нейросеть дорисовала голову, теперь это можно загружать в Google Lens и получаем наш результат.
 
-![](file:///Users/dmitriy/Downloads/OSINT%20Investigations%20Forum%20guide%20for%20beginners/images/image45.png)
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Продолжение решения можете посмотреть: [https://telegra.ph/Reshenie-OSINT-24-01-27](https://www.google.com/url?q=https://telegra.ph/Reshenie-OSINT-24-01-27\&sa=D\&source=editors\&ust=1679408059838999\&usg=AOvVaw39JTM\_p\_t4CaqE7qECy5sb)
 

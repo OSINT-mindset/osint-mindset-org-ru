@@ -8,7 +8,7 @@
 
 ## Сообщество <a href="#community" id="community"></a>
 
-* [🕵♀ Кто есть кто в OSINT](kto-est-kto-v-osint.md)
+* [🕵♀ 🕵♀ Кто есть кто в OSINT](kto-est-kto-v-osint.md)
 * [🔍 Форум обучения OSINT](https://t.me/+GMxoDCvLO0k0MWRi)
 * [🍰 Митапы и подкасты](mitapy-i-podkasty.md)
   * [Митап #1](mitapy-i-podkasty/mitap-1.md)
