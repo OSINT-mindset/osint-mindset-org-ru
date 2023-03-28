@@ -1,3 +1,7 @@
+---
+description: 'Автор: BLACK'
+---
+
 # 👣 Введение в OSINT-расследования
 
 ## Реверсивный поиск по изображению.
@@ -158,7 +162,7 @@ Google Lens умеет:
 
 Загружаем снова в Google Lens. Ура! Все иероглифы определились.
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 Это больница в Японии. Хорошо, вводим адрес этой больницы в Google Maps и смотрим дальше.
 
@@ -170,11 +174,11 @@ Google Lens умеет:
 
 Также мы видим, что стрелка указывает на больницу сзади, поэтому скорее всего это вот эта дорога.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 Смотрим эту дорогу на наличие цифры 20 и находим вот это.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 Переключаемся на Street View и убеждаемся, что это наше место.
 
@@ -194,7 +198,7 @@ Google Lens умеет:
 
 Итак, давайте посмотрим на реальную задачу.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 У нас есть это изображение. Нужно найти блог, на котором плавает это существо.
 
@@ -212,11 +216,11 @@ Google Lens умеет:
 
 Выбираем наше изображение и нажимаем skip cropping.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Растягиваем изображение ( Я растянул до 642x1200)
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 Нажимаем на галочку и стираем область, где мы хотим дорисовать голову ластиком. В поле для промта пишем rat.
 
@@ -230,58 +234,60 @@ Google Lens умеет:
 
 Продолжение решения можете посмотреть: [https://telegra.ph/Reshenie-OSINT-24-01-27](https://www.google.com/url?q=https://telegra.ph/Reshenie-OSINT-24-01-27\&sa=D\&source=editors\&ust=1679408059838999\&usg=AOvVaw39JTM\_p\_t4CaqE7qECy5sb)
 
-Поиск источника
+### Поиск источника
 
 Допустим у нас есть это изображение.
 
-![](file:///Users/dmitriy/Downloads/OSINT%20Investigations%20Forum%20guide%20for%20beginners/images/image29.jpg)
+![](<../.gitbook/assets/image (17).png>)
 
 Мы хотим найти сайты, где встречается именно это изображение. Для этого нужно загрузить это фото в Google Lens и нажать на Найти источник изображения.
 
-![](file:///Users/dmitriy/Downloads/OSINT%20Investigations%20Forum%20guide%20for%20beginners/images/image27.png)
+![](<../.gitbook/assets/image (14).png>)
 
 Теперь мы можем видеть на каких сайтах это изображение встречалось. Это один из самых важных моментов.
 
-![](file:///Users/dmitriy/Downloads/OSINT%20Investigations%20Forum%20guide%20for%20beginners/images/image43.png)
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-Хитрости
+### Хитрости
 
 Иногда встречаются изображения, которые линза без предварительной обработки не распознает.
 
 Давайте взглянем на этот таск.
 
-![](file:///Users/dmitriy/Downloads/OSINT%20Investigations%20Forum%20guide%20for%20beginners/images/image6.png)
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 Нужно по спутниковому снимку найти город. Если мы загрузим это в Google Lens, то нужных результатов мы не увидим.
 
-![](file:///Users/dmitriy/Downloads/OSINT%20Investigations%20Forum%20guide%20for%20beginners/images/image28.png)
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Выдало только похожие. А теперь давайте акцентируем внимание на речке, все так она очень уникальная. Для этого в пэинте или фотошопе обводим ее жирно и светлым цветом. У меня получилось как то так.
 
-![](file:///Users/dmitriy/Downloads/OSINT%20Investigations%20Forum%20guide%20for%20beginners/images/image9.jpg)
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 Теперь это загружаем в линзу и смотрим результаты.
 
-![](file:///Users/dmitriy/Downloads/OSINT%20Investigations%20Forum%20guide%20for%20beginners/images/image33.jpg)
+![](<../.gitbook/assets/image (18).png>)
 
 Немного полистав, находим изображение с похожей речкой. Это город Берн, Швейцария.
 
 Давайте упомянем другие поисковики.
 
-Яндекс Картинки
+## Яндекс Картинки
 
-![](file:///Users/dmitriy/Downloads/OSINT%20Investigations%20Forum%20guide%20for%20beginners/images/image39.png)
+![](<../.gitbook/assets/image (1).png>)
 
 Еще один поисковик с реверсивным поиском - это Яндекс. Он работает хорошо с СНГ регионами, а также хорош для поиска лиц. Часто бывает, что выдает результаты, с которым не получилось достичь с Google Lens.
 
 На этой картинке показано сравнение разных поисковиков на поиск по лицу:
 
-![](file:///Users/dmitriy/Downloads/OSINT%20Investigations%20Forum%20guide%20for%20beginners/images/image7.png)
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 Видно, что Google и Bing не очень справились со своей задачей.
 
-Bing
+### Bing
 
-![](file:///Users/dmitriy/Downloads/OSINT%20Investigations%20Forum%20guide%20for%20beginners/images/image31.png)
+### ![](<../.gitbook/assets/image (6).png>)
+
+
 
 В целом к нему довольно редко обращаюсь, но иногда он выручает, поэтому стоит его тоже упомянуть.

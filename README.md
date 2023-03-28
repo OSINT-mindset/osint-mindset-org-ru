@@ -4,7 +4,7 @@ description: Главная страница сообщества OSINT mindset
 
 # Что здесь?
 
-![](<.gitbook/assets/image (8).png>)
+![](<.gitbook/assets/image (8) (1).png>)
 
 Наше хобби — поиск: как навык, как искусство, как образ мыслей.
 
