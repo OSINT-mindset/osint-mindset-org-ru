@@ -66,6 +66,8 @@ description: >-
 
 [HowToFind на русском](https://t.me/HowToFind) — Инструменты и способы для OSINT
 
+[OSINT | Форензика](https://t.me/osintkanal) — Русскоязычное сообщество по обсуждению OSINT и Форензики. На канале ежедневно публикуются методики, инструменты и новости сферы.
+
 [OSINT Library](https://t.me/OSINT\_Library) — Библиотека материалов.
 
 [OSINT Беларусь](https://t.me/osintby) — Белорусский канал об OSINT.

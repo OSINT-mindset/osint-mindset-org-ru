@@ -42,6 +42,7 @@ description: Who is who in OSINT community
 | Евгений Антипов                                       | ант**и**пов                     | \[an'tɪpɔf]                  | Создатель Глаза Бога                                                                                                                       |
 | Евгений Ивченков                                      | **и**вченков                    | \['ɪftʃɛŋkɔf]                | Частный детектив, лицо CyberYozh                                                                                                           |
 | Фиолетовый                                            | фиол**е**товый                  | \[fɪɐˈletəvɨɪ̯]              | Одиозная виртуальная личность                                                                                                              |
+| moon                                                  | м**у**н                         | \[ˈmuːn]                     | Автор канала в сфере OSINT и форензике [@osintkanal](https://t.me/osintkanal)                                                              |
 
 ## OSINT FR community (France)
 
