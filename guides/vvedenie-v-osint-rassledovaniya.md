@@ -226,7 +226,11 @@ Google Lens умеет:
 
 Дальше выбираете понравившийся результат и скачиваете картинку.
 
+<div align="center">
+
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Нейросеть дорисовала голову, теперь это можно загружать в Google Lens и получаем наш результат.
 
