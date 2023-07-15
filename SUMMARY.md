@@ -22,6 +22,7 @@
   * [Митап #8](community/events/mitap-8.md)
   * [Митап #9](community/events/mitap-9.md)
   * [Митап #10](community/events/mitap-10.md)
+  * [Митап #11 | Москва](community/events/mitap-11-or-moskva.md)
 * [📽 Видео](talks.md)
   * [Что делать, когда открытых данных становится недостаточно](community/talks/chto-delat-kogda-otkrytykh-dannykh-stanovitsya-nedostatochno.md)
   * [Digital-Разведка: Персональные данные и всё что с ними связано](community/talks/digital-razvedka-personalnye-dannye-i-vsyo-chto-s-nimi-svyazano.md)
