@@ -1,6 +1,10 @@
+---
+description: Анонс
+---
+
 # Митап #11 | Москва
 
-![](../../.gitbook/assets/telegram-cloud-photo-size-4-5869424490952372588-y.jpg)
+<figure><img src="../../.gitbook/assets/telegram-cloud-photo-size-4-5869424490952372588-y.jpg" alt=""><figcaption></figcaption></figure>
 
 Новый месяц, новый [митап](https://telegra.ph/file/d124dc10f82e813c6c420.jpg)! Коллектив OSINT Mindset вновь предлагает вам приобщиться к загадочному миру искусства цифровой разведки. Вашими проводниками в этом месяце станут:&#x20;
 
