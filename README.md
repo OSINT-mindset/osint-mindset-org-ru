@@ -26,9 +26,13 @@ description: Главная страница сообщества OSINT mindset
 
 А если хотите принять активное участие — вам [`сюда`](https://docs.google.com/forms/d/e/1FAIpQLScXQhUQ1pF\_-rp6lx-sb9MSBx1e1Qmj60zmkw04Wdls\_m2iEQ/viewform)!
 
-На нашем сайте есть ещё следующая интересная информация:
+***
 
+Ссылки на самые интересные материалы на нашем сайте:
+
+* [Что почитать](https://osint-mindset.gitbook.io/index/community/kogo-pochitat) и [Извлечение ценности из открытых данных](https://osint-mindset.gitbook.io/index/community/kogo-pochitat/keisy-osint-mindset-izvlechenie-cennosti-iz-vneshnikh-dannykh)
 * [Руководство по защите от OSINT](https://osint-mindset.gitbook.io/counter-osint)
+* [Кейсы и решения задач](https://osint-mindset.gitbook.io/cases)
+* [Введение в OSINT-расследования](https://osint-mindset.gitbook.io/index/guides/vvedenie-v-osint-rassledovaniya) и [Как начать путь в OSINT](https://osint-mindset.gitbook.io/index/guides/kak-nachat-put-v-osint)
 * [Кто есть кто в OSINT (и как произносится его ник!)](https://soxoj.github.io/dictionary/)
-* [Календарь событий](https://calendar.online/dc3ea64f7d705161a729)
 * [Руководство по бытовому поиску](https://osint-mindset.gitbook.io/everyday-osint/)

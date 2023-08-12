@@ -1,15 +1,15 @@
 # Table of contents
 
 * [Что здесь?](README.md)
+  * [Hi there!](readme/readme.md)
 * [📰 Телеграм OSINT mindset](https://t.me/osint\_mindset)
-* [📢 Анонсы событий](https://t.me/osint\_ru\_events)
 * [🗓 Календарь событий](https://calendar.online/dc3ea64f7d705161a729)
 * [👷 Работа](https://docs.google.com/forms/d/e/1FAIpQLSetTzFrgRpZOfLbBBB5\_JJqyZN4-kW8qQLLenNSaGbGXlC6zA/viewform)
 
 ## Сообщество <a href="#community" id="community"></a>
 
-* [🕵♀ 🕵♀ Кто есть кто в OSINT](kto-est-kto-v-osint.md)
-* [📰 Что почитать](community/kogo-pochitat/README.md)
+* [🕵♀ Кто есть кто в OSINT](kto-est-kto-v-osint.md)
+* [📰 Что почитать](community/kogo-pochitat.md)
   * [Кейсы OSINT mindset - Извлечение ценности из внешних данных](community/kogo-pochitat/keisy-osint-mindset-izvlechenie-cennosti-iz-vneshnikh-dannykh.md)
 * [🔍 Форум обучения OSINT](https://t.me/+GMxoDCvLO0k0MWRi)
 * [🍰 Митапы и подкасты](community/events/README.md)
