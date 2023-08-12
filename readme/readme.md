@@ -6,6 +6,8 @@ description: The main page of OSINT mindset commmunity
 
 ![](<../.gitbook/assets/image (8) (1).png>)
 
+English version | [Русская версия](https://osint-mindset.gitbook.io/index/)
+
 Our hobby is search: as a skill, as an art, as a way of thinking.
 
 We are engaged in the discipline of OSINT, which is used in one way or another in many areas of our lives.

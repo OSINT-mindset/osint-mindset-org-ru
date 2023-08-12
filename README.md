@@ -6,6 +6,8 @@ description: Главная страница сообщества OSINT mindset
 
 ![](<.gitbook/assets/image (8) (1).png>)
 
+[English version](https://osint-mindset.gitbook.io/index/readme/readme) | Русская версия
+
 Наше хобби — поиск: как навык, как искусство, как образ мыслей.
 
 Мы занимаемся дисциплиной OSINT, которая так или иначе используется во многих сферах нашей жизни.
