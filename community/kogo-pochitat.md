@@ -6,6 +6,10 @@ description: >-
 
 # 📰 Что почитать
 
+👉 Большая часть каналов входит в [**OSINT mindset family**](https://t.me/addlist/EQz6AN034cwyMGU6)[ - подпишись на подборку каналов одним кликом!](https://t.me/addlist/EQz6AN034cwyMGU6)
+
+***
+
 [**Мыслить как безопасник**](https://t.me/artemov\_security) **— канал специалиста, не первый год проработавшего в сфере профайлинга. OSINT, корпоративная и информационная безопасность вкупе с самообороной и толикой сурвайва - элегантный набор настоящего джентльмена.**
 
 [Thinking like a security person](https://t.me/artemov\_security) — is the channel of a specialist who has worked in the field of profiling for several years. OSINT, corporate and information security coupled with self-defense and a survival - an elegant set of a real gentleman
