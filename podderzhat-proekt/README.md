@@ -4,7 +4,7 @@ description: Наши реквизиты
 
 # Поддержать проект
 
-[English version](https://app.gitbook.com/o/zshzoVNUP3l8OF0awfiL/s/q1vDrOaNlLGKN0EfHBBv/\~/changes/54/podderzhat-proekt/support-us) | Русская версия
+[English version](https://osint-mindset.gitbook.io/index/podderzhat-proekt/support-us) | Русская версия
 
 Все материалы и мероприятия проходят за счет организаторов и администраторов сообщества. Если вам нравится наша деятельность и вы хотите поддержать нас финансово, ниже указываем реквизиты:
 

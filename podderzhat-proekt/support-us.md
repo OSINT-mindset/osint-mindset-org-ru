@@ -4,7 +4,7 @@ description: Our payment details
 
 # Support us
 
-English version | [Русская версия](https://app.gitbook.com/o/zshzoVNUP3l8OF0awfiL/s/q1vDrOaNlLGKN0EfHBBv/\~/changes/54/podderzhat-proekt)
+English version | [Русская версия](https://osint-mindset.gitbook.io/index/podderzhat-proekt)
 
 All materials and activities are at the expense of the community organizers and administrators. If you like our activities and want to support us financially, please find the payment details below:
 
