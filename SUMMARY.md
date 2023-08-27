@@ -5,7 +5,7 @@
 * [📰 Телеграм OSINT mindset](https://t.me/osint\_mindset)
 * [🗓 Календарь событий](https://calendar.online/dc3ea64f7d705161a729)
 * [👷 Работа](https://docs.google.com/forms/d/e/1FAIpQLSetTzFrgRpZOfLbBBB5\_JJqyZN4-kW8qQLLenNSaGbGXlC6zA/viewform)
-* [Поддержать проект](podderzhat-proekt/README.md)
+* [🪙 Поддержать проект](podderzhat-proekt/README.md)
   * [Support us](podderzhat-proekt/support-us.md)
 
 ## Сообщество <a href="#community" id="community"></a>
