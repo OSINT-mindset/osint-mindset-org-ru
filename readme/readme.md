@@ -14,15 +14,19 @@ We are engaged in the discipline of OSINT, which is used in one way or another i
 
 The community is named after this: `open source intelligence as a way of thinking`.
 
-Together with like-minded people, we are developing an independent OSINT community in Russia.
+Together with like-minded people, we are developing an independent OSINT community in Russia. The **RU Telegram channel** has **17k** subscribers, the **Investigation Forum** has **over 4k**, about 30 people are the core of the community and are directly involved in development!
+
+[**RU Telegram-channel OSINT mindset** ](https://t.me/osint\_mindset)
+
+[**ENG Telegram-channel OSINT mindset**](https://t.me/osint\_mindset\_eng)
 
 What are we doing:
 
 * [1️⃣ Monthly OSINT mindset meetups in Moscow](https://osint-mindset.gitbook.io/index/mitapy-i-podkasty) (and irregular in other cities)
 * [2️⃣ Podcasts and interviews about OSINT](https://osint-mindset.mave.digital/)
-* [3️⃣ Developing tools for the search and processing of information](https://github.com/soxoj)
-* [4️⃣ Assistance to find work in related fields](https://t.me/osint\_mindset/144)
-* [5️⃣ Investigation Forum for learning OSINT on practical tasks](https://t.me/osint\_mindset/150)
+* [3️⃣ Developing tools for the search and processing of information](https://github.com/OSINT-mindset)
+* [4️⃣ Assistance to find work in related fields](https://docs.google.com/forms/d/e/1FAIpQLSetTzFrgRpZOfLbBBB5\_JJqyZN4-kW8qQLLenNSaGbGXlC6zA/viewform)
+* [5️⃣ Investigation Forum for learning OSINT on practical tasks](https://t.me/+GMxoDCvLO0k0MWRi)
 
 Links to useful and educational materials can be found in the page menu.
 

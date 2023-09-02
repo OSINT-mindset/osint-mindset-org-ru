@@ -14,15 +14,17 @@ description: Главная страница сообщества OSINT mindset
 
 В честь этого названо сообщество: `разведка на основе открытых источников` `как образ мышления`.
 
-Вместе с единомышленниками мы развиваем независимое OSINT-коммьюнити в России.
+Вместе с единомышленниками мы развиваем независимое OSINT-коммьюнити в России. Telegram-канал насчитывает **17к** подписчиков, Форум Расследований — **более 4к**, около 30 человек составляют ядро коммьюнити и непосредственно принимают участие в развитии!
+
+[**Telegram-канал OSINT mindset**](https://t.me/osint\_mindset)
 
 Что мы делаем:
 
 * [1️⃣ Митапы OSINT mindset: раз в месяц в Москве](https://osint-mindset.gitbook.io/index/mitapy-i-podkasty)
 * [2️⃣ Подкасты и интервью про OSINT](https://osint-mindset.mave.digital/)
-* [3️⃣ Инструменты для поиска и обработки информации](https://github.com/soxoj)
-* [4️⃣ Помощь в трудоустройстве в смежных сферах](https://t.me/osint\_mindset/144)
-* [5️⃣ Форум для обучения OSINT на прикладных задачах](https://t.me/osint\_mindset/150)
+* [3️⃣ Инструменты для поиска и обработки информации](https://github.com/OSINT-mindset)
+* [4️⃣ Помощь в трудоустройстве в смежных сферах](https://docs.google.com/forms/d/e/1FAIpQLSetTzFrgRpZOfLbBBB5\_JJqyZN4-kW8qQLLenNSaGbGXlC6zA/viewform)
+* [5️⃣ Форум для обучения OSINT на прикладных задачах](https://t.me/+GMxoDCvLO0k0MWRi)
 
 Ссылки на полезные и обучающие материалы вы можете найти в меню страницы.
 
@@ -36,5 +38,5 @@ description: Главная страница сообщества OSINT mindset
 * [Руководство по защите от OSINT](https://osint-mindset.gitbook.io/counter-osint)
 * [Кейсы и решения задач](https://osint-mindset.gitbook.io/cases)
 * [Введение в OSINT-расследования](https://osint-mindset.gitbook.io/index/guides/vvedenie-v-osint-rassledovaniya) и [Как начать путь в OSINT](https://osint-mindset.gitbook.io/index/guides/kak-nachat-put-v-osint)
-* [Кто есть кто в OSINT (и как произносится его ник!)](https://soxoj.github.io/dictionary/)
+* [Кто есть кто в OSINT (и как произносится его ник!)](https://osint-mindset.gitbook.io/index/community/kto-est-kto-v-osint)
 * [Руководство по бытовому поиску](https://osint-mindset.gitbook.io/everyday-osint/)
