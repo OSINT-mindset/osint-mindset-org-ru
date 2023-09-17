@@ -14,7 +14,7 @@ We are engaged in the discipline of OSINT, which is used in one way or another i
 
 The community is named after this: `open source intelligence as a way of thinking`.
 
-Together with like-minded people, we are developing an independent OSINT community in Russia. The **RU Telegram channel** has **17k** subscribers, the **Investigation Forum** has **over 4k**, about 30 people are the core of the community and are directly involved in development!
+Together with like-minded people, we are developing an independent OSINT community in Russia. The **RU Telegram channel** has almost **20k** subscribers, the **Investigation Forum** has **over 4k**, about 30 people are the core of the community and are directly involved in development!
 
 [**RU Telegram-channel OSINT mindset** ](https://t.me/osint\_mindset)
 

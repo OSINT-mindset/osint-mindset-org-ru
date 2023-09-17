@@ -59,6 +59,7 @@
     * [Digital-Разведка: Персональные данные и всё что с ними связано](community/talks/pravovye-osnovy/digital-razvedka-personalnye-dannye-i-vsyo-chto-s-nimi-svyazano.md)
     * [OSINT mindset подкаст 1](community/talks/pravovye-osnovy/osint-mindset-podkast-1.md)
   * [Криптовалюты](community/talks/kriptovalyuty/README.md)
+    * [Господин Собака: Как получить 10 млн долларов за уязвимость в крипте](community/talks/kriptovalyuty/gospodin-sobaka-kak-poluchit-10-mln-dollarov-za-uyazvimost-v-kripte.md)
     * [Криптовалютные расследования: курс молодого бойца | Angkasawan](community/talks/kriptovalyuty/kriptovalyutnye-rassledovaniya-kurs-molodogo-boica.md)
     * [Принципы и методы криптовалютных расследований | Γρηγόριος](community/talks/kriptovalyuty/principy-i-metody-kriptovalyutnykh-rassledovanii-or-grigorios.md)
     * [Hack back: расследуем криптовалютный скам | crytech7](community/talks/kriptovalyuty/hack-back-rassleduem-kriptovalyutnyi-skam-or-crytech7.md)
