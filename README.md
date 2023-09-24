@@ -20,7 +20,7 @@ description: Главная страница сообщества OSINT mindset
 
 Что мы делаем:
 
-* [1️⃣ Митапы OSINT mindset: раз в месяц в Москве](https://osint-mindset.gitbook.io/index/mitapy-i-podkasty)
+* [1️⃣ Регулярные митапы OSINT mindset в Москве и Питере](https://osint-mindset.gitbook.io/index/mitapy-i-podkasty)
 * [2️⃣ Подкасты и интервью про OSINT](https://osint-mindset.mave.digital/)
 * [3️⃣ Инструменты для поиска и обработки информации](https://github.com/OSINT-mindset)
 * [4️⃣ Помощь в трудоустройстве в смежных сферах](https://docs.google.com/forms/d/e/1FAIpQLSetTzFrgRpZOfLbBBB5\_JJqyZN4-kW8qQLLenNSaGbGXlC6zA/viewform)
