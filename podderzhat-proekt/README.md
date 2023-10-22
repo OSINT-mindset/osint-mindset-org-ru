@@ -2,7 +2,7 @@
 description: Наши реквизиты
 ---
 
-# Поддержать проект
+# 🪙 Поддержать проект
 
 [English version](https://osint-mindset.gitbook.io/index/podderzhat-proekt/support-us) | Русская версия
 

@@ -4,7 +4,7 @@ description: Главная страница сообщества OSINT mindset
 
 # Что здесь?
 
-![](<.gitbook/assets/image (8) (1).png>)
+![](.gitbook/assets/avatar.png)
 
 [English version](https://osint-mindset.gitbook.io/index/readme/readme) | Русская версия
 
