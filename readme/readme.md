@@ -4,7 +4,7 @@ description: The main page of OSINT mindset commmunity
 
 # Hi there!
 
-![](<../.gitbook/assets/image (8) (1).png>)
+![](../.gitbook/assets/avatar.png)
 
 English version | [Русская версия](https://osint-mindset.gitbook.io/index/)
 
