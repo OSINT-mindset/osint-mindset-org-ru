@@ -13,6 +13,7 @@
 * [🕵♀ Кто есть кто в OSINT](kto-est-kto-v-osint.md)
 * [📰 Что почитать](community/kogo-pochitat.md)
   * [Кейсы OSINT mindset - Извлечение ценности из внешних данных](community/kogo-pochitat/keisy-osint-mindset-izvlechenie-cennosti-iz-vneshnikh-dannykh.md)
+  * [Что такое корпоративная безопасность, чем она занимается и как с этим связан OSINT](community/kogo-pochitat/chto-takoe-korporativnaya-bezopasnost-chem-ona-zanimaetsya-i-kak-s-etim-svyazan-osint.md)
 * [🔍 Форум обучения OSINT](https://t.me/+GMxoDCvLO0k0MWRi)
 * [🍰 Митапы и подкасты](community/events/README.md)
   * [Митап #1 | Москва](community/events/mitap-1.md)
