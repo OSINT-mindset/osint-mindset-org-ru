@@ -10,5 +10,5 @@ description: Подписывайтесь!
 * [Mave (подкасты)](https://osint-mindset.mave.digital/)
 * [Telegram-канал](https://t.me/osint\_mindset)
 * [Telegram-форум расследований](https://t.me/+GMxoDCvLO0k0MWRi)
-* [Telegram-папка (каналы сообщества)](https://t.me/osint\_mindset/406)
+* [Telegram-папка (каналы сообщества)](https://t.me/addlist/EQz6AN034cwyMGU6)
 * [LinkedIn](https://www.linkedin.com/company/osint-mindset/)
