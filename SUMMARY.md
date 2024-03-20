@@ -8,11 +8,12 @@
 
 ## Сообщество <a href="#community" id="community"></a>
 
-* [🕵♀ Кто есть кто в OSINT](kto-est-kto-v-osint.md)
+* [🕵️‍♀️ Кто есть кто в OSINT](kto-est-kto-v-osint.md)
 * [📰 Что почитать](community/kogo-pochitat.md)
+  * [Практика OSINT: учимся решать задачи с нуля](community/kogo-pochitat/praktika-osint-uchimsya-reshat-zadachi-s-nulya.md)
   * [Кейсы OSINT mindset - Извлечение ценности из внешних данных](community/kogo-pochitat/keisy-osint-mindset-izvlechenie-cennosti-iz-vneshnikh-dannykh.md)
   * [Что такое корпоративная безопасность, чем она занимается и как с этим связан OSINT](community/kogo-pochitat/chto-takoe-korporativnaya-bezopasnost-chem-ona-zanimaetsya-i-kak-s-etim-svyazan-osint.md)
-  * [Практика OSINT: учимся решать задачи с нуля](community/kogo-pochitat/praktika-osint-uchimsya-reshat-zadachi-s-nulya.md)
+  * [Расследователи инцидентов и все-все-все: кратко про инфобез](community/kogo-pochitat/rassledovateli-incidentov-i-vse-vse-vse-kratko-pro-infobez.md)
 * [🔍 Форум обучения OSINT](https://t.me/+GMxoDCvLO0k0MWRi)
 * [🍰 Митапы и подкасты](community/events/README.md)
   * [Митап #1 | Москва](community/events/mitap-1.md)
@@ -33,7 +34,7 @@
   * [Митап # 1 | Кыргызстан](community/events/mitap-1-or-kyrgyzstan.md)
   * [Конференция #1 | Москва](community/events/konferenciya-1-or-moskva.md)
   * [Митап # 1 | Казахстан](community/events/mitap-1-or-kazakhstan.md)
-* [📽 Видео](talks.md)
+* [📽️ Видео](talks.md)
   * [Основы](community/talks/osnovy/README.md)
     * [Инструменты и способы поиска в OSINT | Сергей Сталь/noname](community/talks/osnovy/instrumenty-i-sposoby-poiska-v-osint.md)
     * [Что делать, когда открытых данных становится недостаточно? | Scully](community/talks/osnovy/chto-delat-kogda-otkrytykh-dannykh-stanovitsya-nedostatochno.md)
@@ -82,4 +83,4 @@
 * [👣 Введение в OSINT-расследования](guides/vvedenie-v-osint-rassledovaniya.md)
 * [🌠 Как начать путь в OSINT](guides/kak-nachat-put-v-osint.md)
 * [🏠 Бытовой OSINT](https://osint-mindset.gitbook.io/everyday-osint/)
-* [🛡 Руководство по защите от OSINT](https://osint-mindset.gitbook.io/counter-osint)
+* [🛡️ Руководство по защите от OSINT](https://osint-mindset.gitbook.io/counter-osint)
