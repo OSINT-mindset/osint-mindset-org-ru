@@ -12,23 +12,23 @@ description: Главная страница сообщества OSINT mindset
 
 Мы занимаемся дисциплиной OSINT, которая так или иначе используется во многих сферах нашей жизни.
 
-В честь этого названо сообщество: `разведка на основе открытых источников` `как образ мышления`.
+В честь этого названо сообщество: `разведка на основе открытых источников`` ``как образ мышления`.
 
-Вместе с единомышленниками мы развиваем независимое OSINT-коммьюнити в России и СНГ. Telegram-канал насчитывает более **20к** подписчиков, Форум Расследований — **более 4к**, около 30 человек составляют ядро коммьюнити и непосредственно принимают участие в развитии!
+Вместе с единомышленниками мы развиваем независимое OSINT-коммьюнити в России и СНГ. Telegram-канал насчитывает более **50к** подписчиков, Форум Расследований — **более 7к**, около 40 человек составляют ядро коммьюнити и непосредственно принимают участие в развитии!
 
-[**Telegram-канал OSINT mindset**](https://t.me/osint\_mindset)
+[**Telegram-канал OSINT mindset**](https://t.me/osint_mindset)
 
 Что мы делаем:
 
 * [1️⃣ Регулярные митапы OSINT mindset в России и СНГ](https://gitbook.osint-mindset.com/index/community/events)
 * [2️⃣ Подкасты и интервью про OSINT](https://osint-mindset.mave.digital/)
 * [3️⃣ Инструменты для поиска и обработки информации](https://github.com/OSINT-mindset)
-* [4️⃣ Помощь в трудоустройстве в смежных сферах](https://docs.google.com/forms/d/e/1FAIpQLSetTzFrgRpZOfLbBBB5\_JJqyZN4-kW8qQLLenNSaGbGXlC6zA/viewform)
+* [4️⃣ Помощь в трудоустройстве в смежных сферах](https://docs.google.com/forms/d/e/1FAIpQLSetTzFrgRpZOfLbBBB5_JJqyZN4-kW8qQLLenNSaGbGXlC6zA/viewform)
 * [5️⃣ Форум для обучения OSINT на прикладных задачах](https://t.me/+GMxoDCvLO0k0MWRi)
 
 Ссылки на полезные и обучающие материалы вы можете найти в меню страницы.
 
-А если хотите принять активное участие — вам [`сюда`](https://docs.google.com/forms/d/e/1FAIpQLScXQhUQ1pF\_-rp6lx-sb9MSBx1e1Qmj60zmkw04Wdls\_m2iEQ/viewform)!
+А если хотите принять активное участие — вам [`сюда`](https://docs.google.com/forms/d/e/1FAIpQLScXQhUQ1pF_-rp6lx-sb9MSBx1e1Qmj60zmkw04Wdls_m2iEQ/viewform)!
 
 ***
 
