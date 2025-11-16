@@ -1,0 +1,288 @@
+site_name: OSINT mindset
+site_url: https://osint-mindset.com
+site_description: Сообщество OSINT специалистов - митапы, гайды, ток-шоу и обучающие материалы
+site_author: OSINT mindset Community
+
+# Markdown хранится в каталоге docs/
+docs_dir: docs
+
+theme:
+  name: material
+  language: ru
+  
+  # Цветовая палитра с вашим фирменным цветом
+  palette:
+    # Светлая тема
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: deep orange
+      toggle:
+        icon: material/brightness-7
+        name: Переключить на тёмную тему
+    
+    # Тёмная тема
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: deep orange
+      toggle:
+        icon: material/brightness-4
+        name: Переключить на светлую тему
+  
+  # Шрифты для лучшей читаемости
+  font:
+    text: Roboto
+    code: Roboto Mono
+  
+  # Иконка сайта
+  favicon: assets/avatar.png
+  logo: assets/avatar.png
+  
+  # Расширенные функции Material
+  features:
+    # Навигация
+    # - navigation.instant        # Отключено для совместимости с i18n
+    # - navigation.instant.prefetch  # Отключено для совместимости с i18n
+    # - navigation.instant.progress  # Отключено для совместимости с i18n
+    - navigation.tracking       # Отслеживание якорей в URL
+    - navigation.sections       # Секции в навигации
+    - navigation.path           # Путь навигации (breadcrumbs)
+    - navigation.indexes        # Индексные страницы разделов
+    - navigation.top            # Кнопка "Наверх"
+    - navigation.footer         # Навигация в футере
+    
+    # Поиск
+    - search.suggest            # Автодополнение поиска
+    - search.highlight          # Подсветка результатов
+    - search.share              # Поделиться результатами
+    
+    # Контент
+    - content.code.copy         # Копирование кода
+    - content.code.select       # Выделение кода
+    - content.code.annotate     # Аннотации в коде
+    - content.tabs.link         # Связанные вкладки контента
+    - content.tooltips          # Всплывающие подсказки
+    - content.action.edit       # Кнопка редактирования
+    - content.action.view       # Кнопка просмотра
+    
+    # Таблицы содержания
+    - toc.follow                # Следование за прокруткой
+    - toc.integrate             # Интегрированное оглавление
+
+# Дополнительные стили для вашего фирменного цвета
+extra_css:
+  - stylesheets/extra.css
+
+# Плагины для расширенной функциональности
+plugins:
+  - search:
+      lang: 
+        - ru
+        - en
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+  - i18n:
+      docs_structure: folder
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: ru
+          default: true
+          name: Русский
+          build: true
+        - locale: en
+          name: English
+          build: true
+          nav_translations:
+            🏠 Главная: 🏠 Home
+            👥 Кто есть кто в OSINT: 👥 Who is Who in OSINT
+            📽️ Видео: 📽️ Videos
+            📱 Все наши соцсети: 📱 All Our Social Media
+            🌐 Комьюнити: 🌐 Community
+            📰 Что почитать: 📰 Reading List
+            🍰 Митапы и подкасты: 🍰 Meetups & Podcasts
+            🕵️ Анонимность: 🕵️ Anonymity
+            🗺️ Геолокация / GEOINT: 🗺️ Geolocation / GEOINT
+            🔒 Информационная безопасность: 🔒 Information Security
+            💰 Криптовалюты: 💰 Cryptocurrencies
+            🌍 OSINT в разных сферах жизни: 🌍 OSINT in Different Areas
+            📖 Основы: 📖 Basics
+            ⚖️ Правовые основы: ⚖️ Legal Basics
+            🤝 Взаимодействие с людьми: 🤝 Human Interaction
+            Руководства: Guides
+            🌠 Как начать путь в OSINT: 🌠 How to Start in OSINT
+            👣 Введение в OSINT-расследования: 👣 Introduction to OSINT Investigations
+  - tags
+  
+# Расширения Markdown
+markdown_extensions:
+  # Python Markdown
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+      permalink_title: Ссылка на этот раздел
+      toc_depth: 3
+  
+  # Python Markdown Extensions
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+# Дополнительная конфигурация
+extra:
+  # Социальные ссылки
+  social:
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/osint_mindset
+      name: Telegram канал
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@osint_mindset
+      name: YouTube канал
+    - icon: fontawesome/brands/github
+      link: https://github.com/osint-mindset
+      name: GitHub
+  
+  # Alternate языки для SEO
+  alternate:
+    - name: Русский
+      link: /
+      lang: ru
+    - name: English
+      link: /en/
+      lang: en
+  
+  # Аналитика (раскомментируйте и добавьте ваш ID)
+  # analytics:
+  #   provider: google
+  #   property: G-XXXXXXXXXX
+  
+  # Генератор (можно отключить)
+  generator: false
+  
+  # Статус документа
+  status:
+    new: Недавно добавлено
+    deprecated: Устарело
+
+# Информация об авторских правах
+copyright: Copyright &copy; 2024 OSINT mindset Community
+
+nav:
+  - 🏠 Главная: README.md
+  - 👥 Кто есть кто в OSINT: kto-est-kto-v-osint.md
+  - 📽️ Видео: talks.md
+  - 📱 Все наши соцсети: vse-nashi-socseti.md
+  - 🌐 Комьюнити:
+    - 📰 Что почитать:
+      - community/kogo-pochitat.md
+      - community/kogo-pochitat/chto-takoe-korporativnaya-bezopasnost-chem-ona-zanimaetsya-i-kak-s-etim-svyazan-osint.md
+      - community/kogo-pochitat/keisy-osint-mindset-izvlechenie-cennosti-iz-vneshnikh-dannykh.md
+      - community/kogo-pochitat/praktika-osint-uchimsya-reshat-zadachi-s-nulya.md
+      - community/kogo-pochitat/rassledovateli-incidentov-i-vse-vse-vse-kratko-pro-infobez.md
+    - 🍰 Митапы и подкасты:
+      - community/events/README.md
+      - community/events/konferenciya-1-or-moskva.md
+      - community/events/konferenciya-2-or-moskva.md
+      - community/events/mitap-1.md
+      - community/events/mitap-1-or-innopolis.md
+      - community/events/mitap-1-or-kazakhstan.md
+      - community/events/mitap-1-or-kyrgyzstan.md
+      - community/events/mitap-1-or-sankt-peterburg.md
+      - community/events/mitap-10-or-moskva.md
+      - community/events/mitap-11-or-moskva.md
+      - community/events/mitap-12-or-moskva.md
+      - community/events/mitap-2.md
+      - community/events/mitap-2-or-kazakhstan.md
+      - community/events/mitap-2-or-sankt-peterburg.md
+      - community/events/mitap-3.md
+      - community/events/mitap-3-or-sankt-peterburg.md
+      - community/events/mitap-4.md
+      - community/events/mitap-5.md
+      - community/events/mitap-6.md
+      - community/events/mitap-7.md
+      - community/events/mitap-8-or-moskva.md
+      - community/events/mitap-9-or-moskva.md
+    - 📽️ Видео:
+      - 🕵️ Анонимность:
+        - community/talks/anonimnost/README.md
+        - community/talks/anonimnost/metody-anonimizacii-v-seti-kak-iskat-no-ne-byt-naidennym.md
+        - community/talks/anonimnost/teoriya-raspoznavaniya-lic-v-osint-neizmennye-elementy-vneshnosti-or-dukera.md
+      - 🗺️ Геолокация / GEOINT:
+        - community/talks/geolokaciya-geoint/README.md
+        - community/talks/geolokaciya-geoint/osint-metody-polucheniya-geolokacii-cheloveka-i-ikh-nedostatki.md
+        - community/talks/geolokaciya-geoint/overpass-turbo-i-nochnoi-geoint.md
+      - 🔒 Информационная безопасность:
+        - community/talks/informacionnaya-bezopasnost/README.md
+        - community/talks/informacionnaya-bezopasnost/hack-back-rassleduem-kriptovalyutnyi-skam-or-crytech7.md
+        - community/talks/informacionnaya-bezopasnost/novye-podkhody-k-osint-v-penteste-i-red-team-or-wdd_ad.md
+        - community/talks/informacionnaya-bezopasnost/osint-mindset-podkast-6-komandnaya-rabota-v-osint-privatnost-i-chatgpt-or-mif-kelevra.md
+        - community/talks/informacionnaya-bezopasnost/razbor-zadach-hackthebox-po-osint.md
+        - community/talks/informacionnaya-bezopasnost/threat-intelligence-kto-kak-i-zachem-izuchaet-kiberugrozy-or-aleksei-bannikov.md
+        - community/talks/informacionnaya-bezopasnost/vse-chto-vy-khoteli-znat-o-vladelce-domena-no-boyalis-sprosit-or-molberte.md
+      - 💰 Криптовалюты:
+        - community/talks/kriptovalyuty/README.md
+        - community/talks/kriptovalyuty/gospodin-sobaka-kak-poluchit-10-mln-dollarov-za-uyazvimost-v-kripte.md
+        - community/talks/kriptovalyuty/hack-back-rassleduem-kriptovalyutnyi-skam-or-crytech7.md
+        - community/talks/kriptovalyuty/kriptovalyutnye-rassledovaniya-kurs-molodogo-boica.md
+        - community/talks/kriptovalyuty/principy-i-metody-kriptovalyutnykh-rassledovanii-or-grigorios.md
+      - 🌍 OSINT в разных сферах жизни:
+        - community/talks/osint-v-raznykh-sferakh-zhizni/README.md
+        - community/talks/osint-v-raznykh-sferakh-zhizni/glubokie-vody-osint-ofshornykh-kompanii-or-vali.md
+        - community/talks/osint-v-raznykh-sferakh-zhizni/lost-media-kultura-kotoruyu-my-poteryali.md
+        - community/talks/osint-v-raznykh-sferakh-zhizni/metody-sbora-i-analiza-informacii-pri-provedenii-poiskovo-spasatelnykh-rabot-or-kedr.md
+        - community/talks/osint-v-raznykh-sferakh-zhizni/osint-mindset-podkast-4-sluzhba-bezopasnosti-i-osint-v-logistike.md
+        - community/talks/osint-v-raznykh-sferakh-zhizni/praktika-ispolzovaniya-osint-v-korporativnoi-bezopasnosti-or-emisare.md
+      - 📖 Основы:
+        - community/talks/osnovy/README.md
+        - community/talks/osnovy/chto-delat-kogda-otkrytykh-dannykh-stanovitsya-nedostatochno.md
+        - community/talks/osnovy/instrumenty-i-sposoby-poiska-v-osint.md
+        - community/talks/osnovy/mify-i-legendy-osint-soobshestva.md
+        - community/talks/osnovy/naiti-to-ne-znayu-chto.-metody-poiska-v-neizvestnosti.md
+        - community/talks/osnovy/osint-mindset-podkast-3-intervyu-so-scully.md
+        - community/talks/osnovy/osint-vvedenie-v-specialnost-or-soxoj-dukera.md
+        - community/talks/osnovy/puteshestvie-v-glubinu.-deepweb-i-darkweb-v-osint.md
+        - community/talks/osnovy/sock-puppets-virtualnye-lichnosti-dlya-osint-or-vali.md
+      - ⚖️ Правовые основы:
+        - community/talks/pravovye-osnovy/README.md
+        - community/talks/pravovye-osnovy/digital-razvedka-personalnye-dannye-i-vsyo-chto-s-nimi-svyazano.md
+        - community/talks/pravovye-osnovy/osint-mindset-podkast-1.md
+        - community/talks/pravovye-osnovy/pravovye-osnovy-osint-v-rf.md
+      - 🤝 Взаимодействие с людьми:
+        - community/talks/vzaimodeistvie-s-lyudmi/README.md
+        - community/talks/vzaimodeistvie-s-lyudmi/manipulyacii-101-vzglyad-lyubitelya-or-mahairodon-16+.md
+        - community/talks/vzaimodeistvie-s-lyudmi/manipulyacii-na-osnove-otkrytykh-dannykh-ili-kak-rabotaet-magiya-ekstrasensov-or-akvagon-16+.md
+        - community/talks/vzaimodeistvie-s-lyudmi/profailing-vvedenie.-osnovnye-mify-i-primery-ispolzovaniya-v-rassledovaniyakh.md
+  - Руководства:
+    - 🌠 Как начать путь в OSINT: guides/kak-nachat-put-v-osint.md
+    - 👣 Введение в OSINT-расследования: guides/vvedenie-v-osint-rassledovaniya.md
+
