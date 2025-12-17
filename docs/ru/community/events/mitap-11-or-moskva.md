@@ -4,11 +4,11 @@ description: Анонс
 
 # Митап #11 | Москва
 
-<figure><img src="../../assets/telegram-cloud-photo-size-4-5869424490952372588-y.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/telegram-cloud-photo-size-4-5869424490952372588-y (1).jpg" alt=""><figcaption></figcaption></figure>
 
 Новый месяц, новый митап! Коллектив OSINT Mindset вновь предлагает вам приобщиться к загадочному миру искусства цифровой разведки. Вашими проводниками в этом месяце станут:
 
-* [**Pandora**](https://t.me/pandora\_intelligence) **— Социальный анализ в расследовании инцидентов ИБ**
+* [**Pandora**](https://t.me/pandora_intelligence) **— Социальный анализ в расследовании инцидентов ИБ**
 * **@osinterka — Поиск владельцев веб-сайтов**
 * [**Akvagon**](https://t.me/LetopisSamogona) **— Гадалки и детективы. Зачем заказчики привлекают "магов" к расследованиям?**
 

@@ -4,7 +4,7 @@ description: Анонс
 
 # Митап #9 | Москва
 
-<figure><img src="../../assets/telegram-cloud-photo-size-4-5961951572705521765-y.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/telegram-cloud-photo-size-4-5961951572705521765-y (1).jpg" alt=""><figcaption></figcaption></figure>
 
 Господа, снимайте шляпы! Маги и кудесники из OSINT Mindset вновь собрались, чтобы порадовать вас отменными ресерчами. Встречайте, OSINT Mindset Meetup №9! ✨
 

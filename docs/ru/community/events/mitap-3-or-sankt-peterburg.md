@@ -1,6 +1,6 @@
 # Митап # 3 | Санкт-Петербург
 
-<figure><img src="../../assets/meetup_spb_3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/meetup_spb_3 (1).png" alt=""><figcaption></figcaption></figure>
 
 Внезапно, OSINT mindset meetup spb #3! Исследователи OSINT из культурной столицы снова собираются, чтобы обсудить с вами интереснейшие вопросы! 🔍
 

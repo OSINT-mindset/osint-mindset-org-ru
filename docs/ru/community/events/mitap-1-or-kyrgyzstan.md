@@ -1,6 +1,6 @@
 # Митап # 1 | Кыргызстан
 
-<figure><img src="../../assets/meetup_kgz_1_announce1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/meetup_kgz_1_announce1 (1).png" alt=""><figcaption></figcaption></figure>
 
 А тем временем, OSINT mindset расширяется до Кыргызстана! На первом мероприятии — OSINT mindset meetup kgz #1 — планируются следующие темы докладов 🔥
 

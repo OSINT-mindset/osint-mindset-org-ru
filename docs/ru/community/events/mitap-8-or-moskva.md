@@ -4,15 +4,15 @@ description: Анонс
 
 # Митап #8 | Москва
 
-<figure><img src="../../assets/telegram-cloud-photo-size-4-5878856312148832316-y.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/telegram-cloud-photo-size-4-5878856312148832316-y (1).jpg" alt=""><figcaption></figcaption></figure>
 
 Покайтесь, ибо грядет OSINT Mindset meetup №8!
 
 Вновь участники нашего коллектива врываются с мощнейшими докладами:
 
-[**@dukera**](https://t.me/dukera\_ch) **— Теория распознавания лиц в OSINT: неизменные элементы внешности**
+[**@dukera**](https://t.me/dukera_ch) **— Теория распознавания лиц в OSINT: неизменные элементы внешности**
 
-[**@emisare**](https://t.me/artemov\_security) **— Практика использования OSINT в корпоративной безопасности**
+[**@emisare**](https://t.me/artemov_security) **— Практика использования OSINT в корпоративной безопасности**
 
 **@Akvagon — Манипуляции на основе открытых данных, или Как работает магия экстрасенсов**
 

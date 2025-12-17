@@ -10,7 +10,7 @@ description: 'Автор: BLACK'
 
 ### Что же такое реверсивный поиск по изображению?
 
-Реверсивный поиск по изображению - это способ найти источник, автора,  распознать язык или другую информацию о картинке, загрузив ее в поисковую систему.
+Реверсивный поиск по изображению - это способ найти источник, автора, распознать язык или другую информацию о картинке, загрузив ее в поисковую систему.
 
 И так, что это такое мы разобрались. Давайте посмотрим какие есть поисковики, с которыми можно искать по картинке.
 
@@ -18,7 +18,7 @@ description: 'Автор: BLACK'
 
 #### 1. Google Lens
 
-<figure><img src="../assets/image12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image12 (1).png" alt=""><figcaption></figcaption></figure>
 
 Это пожалуй является самым популярным и универсальным поиском по изображению.
 
@@ -34,23 +34,23 @@ Google Lens умеет:
 
 И так, если вы никогда до этого не пользовались, то вот простая задача, с которой можно попрактиковаться.
 
-<figure><img src="../assets/image19.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image19 (1).png" alt=""><figcaption></figcaption></figure>
 
 Эта задача GEOINT #19. Дана фотография, нужно найти место.
 
 1\. Идем на google.com и жмем на иконку фотоаппарата.
 
-<figure><img src="../assets/image3.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image3 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 2\. Загружаем нашу фотографию (Можно перебросить с компьютера, а можно просто скопировать картинку и вставить с помощью ctrl+v)
 
 Итак мы получили результат, так как место достаточно популярное, то место выдало сразу - Kadıköy İnciburnu Feneri.
 
-<figure><img src="../assets/image32.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image32 (1).png" alt=""><figcaption></figcaption></figure>
 
 Теперь вводим это место в Google Maps, находим точное место, где стоял фотограф и получаем ответ - 40.9922934 29.0146183.
 
-<figure><img src="../assets/image35.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image35 (1).png" alt=""><figcaption></figcaption></figure>
 
 Так, ладно базово пользоваться Google Lens мы разобрались, давайте перейдем к следующему таску и научимся еще одной вещи.
 
@@ -58,11 +58,11 @@ Google Lens умеет:
 
 Чтобы было лучше понятно, что это такое давайте взглянем на эту картинку.
 
-<figure><img src="../assets/image41.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image41 (1).png" alt=""><figcaption></figcaption></figure>
 
 Нужно найти место. Так, давайте загрузим это изображение в Google Lens. Выделяем здание в окне и вот такие результаты мы получаем:
 
-<figure><img src="../assets/image14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image14 (1).png" alt=""><figcaption></figcaption></figure>
 
 Мы хотели здание вдали, а получили окна. В данном случае окно на фото - это шум (noise).
 
@@ -76,29 +76,29 @@ Google Lens умеет:
 
 Переходим на сайт cleanup.pictures.
 
-<figure><img src="../assets/image15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image15 (1).png" alt=""><figcaption></figcaption></figure>
 
 Загружаем фотографию и выделяем окно.
 
-<figure><img src="../assets/image4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image4 (2).png" alt=""><figcaption></figcaption></figure>
 
 Получаем результат:
 
-<figure><img src="../assets/image13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image13 (1).png" alt=""><figcaption></figcaption></figure>
 
 Теперь этого достаточно, чтобы найти это здание. Все также загружаем в Google Lens и выделяем здание и получаем, то что мы хотели.
 
-<figure><img src="../assets/image42.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image42 (1).png" alt=""><figcaption></figcaption></figure>
 
 Итак, мы знаем теперь здание вдали - это Латвийская Национальная библиотека, осталось найти здание, которое стоит напротив.
 
 А вот и оно : The Wellton Riverside Spa Hotel in Riga
 
-<figure><img src="../assets/image20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image20 (1).png" alt=""><figcaption></figcaption></figure>
 
 Теперь если посмотреть информацию про conference rooms на сайте этого отеля, то находим похожую комнату.
 
-<figure><img src="../assets/image21.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image21 (1).png" alt=""><figcaption></figcaption></figure>
 
 Ладно, теперь пытаемся найти точные координаты, откуда было сделано фото и получаем ответ: 56.945074540, 24.108067195.
 
@@ -110,7 +110,7 @@ Google Lens умеет:
 
 Чтобы избавиться от такой проблемы, нужно поменять язык в поиске Google. Итак давайте посмотрим на примере этой фотографии.
 
-<figure><img src="../assets/image34.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image34 (1).png" alt=""><figcaption></figcaption></figure>
 
 Дана фотография, нужно найти место.
 
@@ -120,25 +120,25 @@ Google Lens умеет:
 
 Для этого переходим на главную страницу Google. Нажимаем настройки -> настройки поиска.
 
-<figure><img src="../assets/image11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image11 (1).png" alt=""><figcaption></figcaption></figure>
 
 Далее нажимаем языки и выбираем польский.
 
-<figure><img src="../assets/image10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image10 (1).png" alt=""><figcaption></figcaption></figure>
 
 Теперь загружаем фото в Google Lens и получаем в основном польские результаты. Среди них есть и наша застройка.
 
-<figure><img src="../assets/image22.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image22 (1).png" alt=""><figcaption></figcaption></figure>
 
 Переходим по первой ссылке, находим то же объявление и смотрим адрес.
 
-<figure><img src="../assets/image37.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image37 (1).png" alt=""><figcaption></figcaption></figure>
 
 Итак, на сайте написано, что это Город Краков, улица Wrocławska. Вводим это в Google Maps и ищем наше здание.
 
 Спустя несколько минут прогуливание по улице, находим место.
 
-<figure><img src="../assets/image5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image5 (2).png" alt=""><figcaption></figcaption></figure>
 
 Координаты: 50.08063721, 19.9214986570.
 
@@ -146,43 +146,43 @@ Google Lens умеет:
 
 Так, теперь давайте рассмотрим еще одну фичу - это распознавание языка. Это бывает полезно, когда на фото иероглифы, которые просто так на клавиатуре не набрать. Давайте рассмотрим реальный кейс.
 
-<figure><img src="../assets/image25.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image25 (1).png" alt=""><figcaption></figcaption></figure>
 
 Мы видим на столбе иероглифы. Понять и написать на клавиатуре мы их не можем. Нам поможет Google Lens.
 
 Загружаем изображение и выделяем иероглифы.
 
-<figure><img src="../assets/image44.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image44 (1).png" alt=""><figcaption></figcaption></figure>
 
 К сожалению не определился первый иероглиф, потому что он немного закрыт черной точкой. Ничего страшного, можем дорисовать иероглиф в пэинте, фотошопе, ну или на сайте photopea.
 
-<figure><img src="../assets/image1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image1 (1).png" alt=""><figcaption></figcaption></figure>
 
 Иногда приходится дорисовывать некоторые элементы изображения, чтобы гугл их начал распознавать, как с этим иероглифом.
 
 Загружаем снова в Google Lens. Ура! Все иероглифы определились.
 
-<figure><img src="../assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Это больница в Японии. Хорошо, вводим адрес этой больницы в Google Maps и смотрим дальше.
 
-<figure><img src="../assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 На фото можно увидеть цифру 20 на асфальте.
 
-<figure><img src="../assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 Также мы видим, что стрелка указывает на больницу сзади, поэтому скорее всего это вот эта дорога.
 
-<figure><img src="../assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Смотрим эту дорогу на наличие цифры 20 и находим вот это.
 
-<figure><img src="../assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Переключаемся на Street View и убеждаемся, что это наше место.
 
-<figure><img src="../assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 Это оно!
 
@@ -198,13 +198,13 @@ Google Lens умеет:
 
 Итак, давайте посмотрим на реальную задачу.
 
-<figure><img src="../assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (2).png" alt=""><figcaption></figcaption></figure>
 
 У нас есть это изображение. Нужно найти блог, на котором плавает это существо.
 
 Мы видим, что у существа нет головы, изображение искажено. Google Lense нужных результатов не выдаст.
 
-<figure><img src="../assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Поэтому нам надо обхитрить гугл и дать понять, что это за животное и что мы вообще хотим искать. Для этого воспользуемся нейросетью dalle-e 2, чтобы дорисовать голову.
 
@@ -212,45 +212,41 @@ Google Lens умеет:
 
 Хорошо, заходим на сайт нейросети и нажимаем upload an image.
 
-<figure><img src="../assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 Выбираем наше изображение и нажимаем skip cropping.
 
-<figure><img src="../assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Растягиваем изображение ( Я растянул до 642x1200)
 
-<figure><img src="../assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 Нажимаем на галочку и стираем область, где мы хотим дорисовать голову ластиком. В поле для промта пишем rat.
 
 Дальше выбираете понравившийся результат и скачиваете картинку.
 
-<div align="center">
-
-<figure><img src="../assets/image (3).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="center"><figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 Нейросеть дорисовала голову, теперь это можно загружать в Google Lens и получаем наш результат.
 
-<figure><img src="../assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-Продолжение решения можете посмотреть: [https://telegra.ph/Reshenie-OSINT-24-01-27](https://www.google.com/url?q=https://telegra.ph/Reshenie-OSINT-24-01-27\&sa=D\&source=editors\&ust=1679408059838999\&usg=AOvVaw39JTM\_p\_t4CaqE7qECy5sb)
+Продолжение решения можете посмотреть: [https://telegra.ph/Reshenie-OSINT-24-01-27](https://www.google.com/url?q=https://telegra.ph/Reshenie-OSINT-24-01-27\&sa=D\&source=editors\&ust=1679408059838999\&usg=AOvVaw39JTM_p_t4CaqE7qECy5sb)
 
 ### Поиск источника
 
 Допустим у нас есть это изображение.
 
-![](<../assets/image (17).png>)
+![](<../../../.gitbook/assets/image (17) (1).png>)
 
 Мы хотим найти сайты, где встречается именно это изображение. Для этого нужно загрузить это фото в Google Lens и нажать на Найти источник изображения.
 
-![](<../assets/image (14).png>)
+![](<../../../.gitbook/assets/image (14) (2).png>)
 
 Теперь мы можем видеть на каких сайтах это изображение встречалось. Это один из самых важных моментов.
 
-<figure><img src="../assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Хитрости
 
@@ -258,19 +254,19 @@ Google Lens умеет:
 
 Давайте взглянем на этот таск.
 
-<figure><img src="../assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (2).png" alt=""><figcaption></figcaption></figure>
 
 Нужно по спутниковому снимку найти город. Если мы загрузим это в Google Lens, то нужных результатов мы не увидим.
 
-<figure><img src="../assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 Выдало только похожие. А теперь давайте акцентируем внимание на речке, все так она очень уникальная. Для этого в пэинте или фотошопе обводим ее жирно и светлым цветом. У меня получилось как то так.
 
-<figure><img src="../assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 Теперь это загружаем в линзу и смотрим результаты.
 
-![](<../assets/image (18).png>)
+![](<../../../.gitbook/assets/image (18) (1).png>)
 
 Немного полистав, находим изображение с похожей речкой. Это город Берн, Швейцария.
 
@@ -278,20 +274,18 @@ Google Lens умеет:
 
 ### Яндекс Картинки
 
-![](<../assets/image (1).png>)
+![](<../../../.gitbook/assets/image (1) (2).png>)
 
 Еще один поисковик с реверсивным поиском - это Яндекс. Он работает хорошо с СНГ регионами, а также хорош для поиска лиц. Часто бывает, что выдает результаты, с которым не получилось достичь с Google Lens.
 
 На этой картинке показано сравнение разных поисковиков на поиск по лицу:
 
-<figure><img src="../assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 Видно, что Google и Bing не очень справились со своей задачей.
 
 ### Bing
 
-### ![](<../assets/image (6).png>)
-
-
+### ![](<../../../.gitbook/assets/image (6) (2).png>)
 
 В целом к нему довольно редко обращаюсь, но иногда он выручает, поэтому стоит его тоже упомянуть.

@@ -4,7 +4,7 @@ description: Анонс
 
 # Митап # 1 | Санкт-Петербург
 
-<figure><img src="../../assets/telegram-cloud-photo-size-4-5876509812601237815-w.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/telegram-cloud-photo-size-4-5876509812601237815-w.jpg" alt=""><figcaption></figcaption></figure>
 
 OSINT Mindset приходит в Петербург! Об OSINT в городе на Неве расскажут: 🔥
 

@@ -1,6 +1,6 @@
 # Митап # 2 | Казахстан
 
-<figure><img src="../../assets/meetup_kaz_2_announce1_ru.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/meetup_kaz_2_announce1_ru (1).png" alt=""><figcaption></figcaption></figure>
 
 Сәлем, Казақстан! OSINT mindset возвращается к вам с митапом про кибер-расследования в Алмате!
 

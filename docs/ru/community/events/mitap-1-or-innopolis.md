@@ -4,7 +4,7 @@ description: Анонс
 
 # Митап #1 | Иннополис
 
-<figure><img src="../../assets/telegram-cloud-photo-size-2-5210860920480318332-y.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/telegram-cloud-photo-size-2-5210860920480318332-y (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 Астрологи объявили неделю митапов. 18 марта в университете Иннополис, OSINT Mindset Meetup #1!
 
