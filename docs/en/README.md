@@ -14,8 +14,8 @@ The community is named after this: **open source intelligence as a way of thinki
 
 > Together with like-minded people, we are developing an independent OSINT community in Russia and CIS.
 > 
-> 📊 **50k+** Telegram channel subscribers  
-> 💬 **7k+** Investigation Forum members  
+> 📊 **60k+** Telegram channel subscribers  
+> 💬 **8k+** Investigation Forum members  
 > 👥 **~40** active core community members
 
 ### 📢 Join Us
